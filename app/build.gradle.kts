@@ -99,4 +99,7 @@ dependencies {
     // Tambahkan library OkHttp
     implementation("com.squareup.okhttp3:okhttp:4.11.0")
     implementation("com.squareup.okhttp3:logging-interceptor:4.11.0")
+
+    // Tambahkan baris ini di dalam blok dependencies
+    implementation("androidx.compose.material:material-icons-extended")
 }
